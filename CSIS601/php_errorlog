@@ -1,0 +1,200 @@
+[19-Apr-2017 12:22:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'sep' (T_STRING), expecting ',' or ';' in /home/margem31/public_html/CSIS601/listmembers.php on line 39
+[19-Apr-2017 14:42:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/margem31/public_html/CSIS601/listvolunteers.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listvolunteers.php on line 34
+[19-Apr-2017 14:43:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/margem31/public_html/CSIS601/listvolunteers.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listvolunteers.php on line 34
+[19-Apr-2017 14:43:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/margem31/public_html/CSIS601/listdonors.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listdonors.php on line 32
+[19-Apr-2017 14:54:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/viewvolunteer.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/viewvolunteer.php on line 32
+[19-Apr-2017 15:06:33 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/margem31/public_html/CSIS601/viewvolunteer.php on line 21
+[19-Apr-2017 15:07:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/margem31/public_html/CSIS601/viewvolunteer.php on line 63
+[19-Apr-2017 15:07:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/margem31/public_html/CSIS601/viewvolunteer.php on line 63
+[19-Apr-2017 15:07:43 CST6CDT] PHP Fatal error:  Cannot redeclare close() (previously declared in /home/margem31/public_html/CSIS601/dbconnect.php:33) in /home/margem31/public_html/CSIS601/dbconnect.php on line 33
+[19-Apr-2017 15:08:34 CST6CDT] PHP Fatal error:  Cannot redeclare close() (previously declared in /home/margem31/public_html/CSIS601/dbconnect.php:33) in /home/margem31/public_html/CSIS601/dbconnect.php on line 33
+[19-Apr-2017 15:08:38 CST6CDT] PHP Fatal error:  Cannot redeclare close() (previously declared in /home/margem31/public_html/CSIS601/dbconnect.php:33) in /home/margem31/public_html/CSIS601/dbconnect.php on line 33
+[19-Apr-2017 15:11:11 CST6CDT] PHP Fatal error:  Cannot redeclare close() (previously declared in /home/margem31/public_html/CSIS601/dbconnect.php:33) in /home/margem31/public_html/CSIS601/dbconnect.php on line 33
+[19-Apr-2017 15:11:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listvolunteers.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listvolunteers.php on line 34
+[19-Apr-2017 15:12:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 33
+[19-Apr-2017 15:12:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listvolunteers.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listvolunteers.php on line 34
+[19-Apr-2017 15:12:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listdonors.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listdonors.php on line 32
+[19-Apr-2017 15:17:50 CST6CDT] PHP Fatal error:  Cannot redeclare close() (previously declared in /home/margem31/public_html/CSIS601/dbconnect.php:33) in /home/margem31/public_html/CSIS601/dbconnect.php on line 33
+[19-Apr-2017 15:20:35 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/margem31/public_html/CSIS601/viewvolunteer.php on line 20
+[19-Apr-2017 20:04:50 CST6CDT] PHP Parse error:  syntax error, unexpected '"and Year ="' (T_CONSTANT_ENCAPSED_STRING) in /home/margem31/public_html/CSIS601/editrole.php on line 18
+[19-Apr-2017 20:07:40 CST6CDT] PHP Parse error:  syntax error, unexpected '"and Year ="' (T_CONSTANT_ENCAPSED_STRING) in /home/margem31/public_html/CSIS601/editrole.php on line 21
+[19-Apr-2017 20:09:24 CST6CDT] PHP Parse error:  syntax error, unexpected '"and Year ="' (T_CONSTANT_ENCAPSED_STRING) in /home/margem31/public_html/CSIS601/editrole.php on line 21
+[19-Apr-2017 20:10:28 CST6CDT] PHP Parse error:  syntax error, unexpected '" and Year ="' (T_CONSTANT_ENCAPSED_STRING) in /home/margem31/public_html/CSIS601/editrole.php on line 21
+[19-Apr-2017 20:14:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 24
+[19-Apr-2017 20:14:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 24
+[19-Apr-2017 20:14:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 24
+[19-Apr-2017 20:15:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 24
+[19-Apr-2017 20:18:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 24
+[19-Apr-2017 20:20:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 21
+[19-Apr-2017 20:21:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 21
+[19-Apr-2017 20:24:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 21
+[22-Apr-2017 01:40:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 25
+[22-Apr-2017 07:26:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/margem31/public_html/CSIS601/editrole.php on line 31
+[22-Apr-2017 07:26:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/margem31/public_html/CSIS601/editrole.php on line 31
+[22-Apr-2017 07:27:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/margem31/public_html/CSIS601/editrole.php on line 31
+[22-Apr-2017 07:33:31 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/margem31/public_html/CSIS601/editrole.php on line 29
+[22-Apr-2017 07:34:11 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/margem31/public_html/CSIS601/editrole.php on line 30
+[22-Apr-2017 07:35:38 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 55
+[22-Apr-2017 07:38:32 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 53
+[22-Apr-2017 07:39:41 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 53
+[22-Apr-2017 07:45:01 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 55
+[22-Apr-2017 07:48:21 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 61
+[22-Apr-2017 07:50:01 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 61
+[22-Apr-2017 07:53:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/margem31/public_html/CSIS601/editrole.php on line 60
+[22-Apr-2017 07:55:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editrole.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editrole.php on line 20
+[22-Apr-2017 11:34:55 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/margem31/public_html/CSIS601/editprofile.php on line 21
+[22-Apr-2017 11:35:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/editprofile.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editprofile.php on line 20
+[22-Apr-2017 11:36:25 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/margem31/public_html/CSIS601/editprofile.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editprofile.php on line 27
+[22-Apr-2017 11:37:29 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/margem31/public_html/CSIS601/editprofile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editprofile.php on line 28
+[22-Apr-2017 11:39:36 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/margem31/public_html/CSIS601/editprofile.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editprofile.php on line 27
+[22-Apr-2017 11:39:38 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/margem31/public_html/CSIS601/editprofile.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/editprofile.php on line 27
+[22-Apr-2017 12:35:26 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/margem31/public_html/CSIS601/editprofilesrv.php on line 3
+[22-Apr-2017 12:35:31 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/margem31/public_html/CSIS601/editprofilesrv.php on line 3
+[22-Apr-2017 12:37:39 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/margem31/public_html/CSIS601/editprofilesrv.php on line 3
+[22-Apr-2017 12:55:13 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/margem31/public_html/CSIS601/editprofilesrv.php on line 3
+[22-Apr-2017 12:55:19 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/margem31/public_html/CSIS601/editprofilesrv.php on line 3
+[22-Apr-2017 12:57:49 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/margem31/public_html/CSIS601/editprofilesrv.php on line 3
+[23-Apr-2017 12:42:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'sep' (T_STRING), expecting ',' or ';' in /home/margem31/public_html/CSIS601/listdonors.php on line 38
+[23-Apr-2017 14:07:10 CST6CDT] PHP Parse error:  syntax error, unexpected '$resultD' (T_VARIABLE) in /home/margem31/public_html/CSIS601/listpeople.php on line 42
+[23-Apr-2017 14:11:15 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/margem31/public_html/CSIS601/listpeople.php on line 43
+[23-Apr-2017 14:38:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/viewdonations.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/viewdonations.php on line 39
+[23-Apr-2017 14:40:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/viewdonations.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/viewdonations.php on line 39
+[23-Apr-2017 14:56:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 43
+[23-Apr-2017 14:57:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 43
+[23-Apr-2017 14:57:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 44
+[23-Apr-2017 15:00:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 46
+[23-Apr-2017 15:01:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 47
+[23-Apr-2017 15:01:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listpeople.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listpeople.php on line 47
+[23-Apr-2017 15:03:41 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/margem31/public_html/CSIS601/listpeople.php on line 46
+[23-Apr-2017 15:13:01 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/margem31/public_html/CSIS601/listpeople.php on line 44
+[23-Apr-2017 15:14:29 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/margem31/public_html/CSIS601/listpeople.php on line 44
+[24-Apr-2017 11:37:17 CST6CDT] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/margem31/public_html/CSIS601/delevent.php on line 3
+[24-Apr-2017 11:38:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'myquery' (T_STRING), expecting ',' or ';' in /home/margem31/public_html/CSIS601/delevent.php on line 5
+[24-Apr-2017 21:10:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$resultin' (T_VARIABLE) in /home/margem31/public_html/CSIS601/listgrants.php on line 40
+[24-Apr-2017 21:15:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/margem31/public_html/CSIS601/listgrants.php on line 41
+[24-Apr-2017 21:16:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 41
+[24-Apr-2017 21:18:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 42
+[24-Apr-2017 21:19:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 42
+[24-Apr-2017 21:21:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 42
+[24-Apr-2017 21:24:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 42
+[24-Apr-2017 21:26:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 41
+[24-Apr-2017 21:33:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/margem31/public_html/CSIS601/listgrants.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/listgrants.php on line 42
+[24-Apr-2017 21:46:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$sqlin2' (T_VARIABLE) in /home/margem31/public_html/CSIS601/listgrants.php on line 41
+[25-Apr-2017 11:27:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function myquery() in /home/margem31/public_html/CSIS601/report.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/margem31/public_html/CSIS601/report.php on line 30

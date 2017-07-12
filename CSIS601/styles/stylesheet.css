@@ -1,0 +1,139 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	align-items: center;
+        background-color: #ddd;
+	font-family: 'Raleway', sans-serif;
+	justify-content: center;
+	overflow: scroll;
+}
+
+
+/*stuff for menu bar*/
+.nav {
+    background-color: #420666;
+    overflow: hidden;
+    text-align: center;
+}
+
+.nav a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 8px 24px;
+    font-family: 'Cookie', serif;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.nav a:hover {
+    background-color: #630999;
+    color: #eeddff;
+}
+
+.nav a:focus {
+    background-color: #630999;
+    color: #eeddff;
+}
+
+
+/*main content*/
+div {   
+	margin: 0px auto;
+	justify-content: center;
+}
+
+div.data{ 
+	height: 75%;
+	width: 80%;
+	overflow-x: scroll;
+	overflow-y: scroll;
+}
+
+div.data2{ 
+	height: 35%;
+	width: 80%;
+	overflow-x: scroll;
+	overflow-y: scroll;
+}
+
+div.sep{
+   margin: 8px 0px 0px 0px;
+}
+
+h1 {
+  color: #420666;
+  font-family: 'Cookie', serif;
+  font-size: 52px;
+  line-height: 46px;
+  margin: 10px;
+  text-align: center;
+}
+
+h2 {
+  color: #630999;
+  font-family: 'Josefin Slab', serif;
+  font-size: 24px;
+  line-height: 24px;
+  margin: 10px;
+  text-align: center;
+}
+
+p {
+    line-height: 1.7;
+}
+
+a {
+    display: block;
+    float: left;
+    border: 2px solid #420666;
+    border-radius: 5px;
+    background-color: #420666;
+    color: #fff;
+    text-decoration: none;
+    margin: 2px 2px 2px 2px;
+}
+
+a:hover {
+    background-color: #630999;
+    color: #eeddff;
+}
+
+a:focus {
+    background-color: #630999;
+    color: #eeddff;
+}
+
+/*tables*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table, th, td {
+    border: 0px;
+}
+
+th {
+    height: 35px;
+    background-color: #420666;
+    color: #fff;
+    font-family: 'Josefin Slab', 'Raleway', sans-serif;
+    font-size: 24px;
+
+}
+
+th, td {
+    border-bottom: 1px solid #bbb;
+    padding: 10px;
+    text-align: left;
+}
+tr:nth-child(even){background-color: #eaeaea;}
